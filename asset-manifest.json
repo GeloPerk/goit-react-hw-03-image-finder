@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geloperk.github.io/goit-react-hw-03-image-finder/static/css/main.f7343fef.css",
+    "main.js": "/geloperk.github.io/goit-react-hw-03-image-finder/static/js/main.fa9c7155.js",
+    "index.html": "/geloperk.github.io/goit-react-hw-03-image-finder/index.html",
+    "main.f7343fef.css.map": "/geloperk.github.io/goit-react-hw-03-image-finder/static/css/main.f7343fef.css.map",
+    "main.fa9c7155.js.map": "/geloperk.github.io/goit-react-hw-03-image-finder/static/js/main.fa9c7155.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7343fef.css",
+    "static/js/main.fa9c7155.js"
+  ]
+}
